@@ -1,4 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=5witchkr&hide=stars&show_icons=true&theme=tokyonight"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr)](https://github.com/깃허브아이디/github-readme-stats)
 
 <!--
 **5witchkr/5witchkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
