@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5witchkr)](https://github.com/5witchkr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr)](https://github.com/5witchkr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&layout=compact)](https://github.com/5witchkr)
 
 <!--
 **5witchkr/5witchkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
