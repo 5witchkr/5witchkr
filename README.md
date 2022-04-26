@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&langs_count=6?username=anuraghazra&hide=css,html?username=anuraghazra&layout=compact)](https://github.com/5witchkr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&langs_count=6?username=anuraghazra&layout=compact?username=anuraghazra&hide=css,html)](https://github.com/5witchkr)
 
 <!--
 **5witchkr/5witchkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
