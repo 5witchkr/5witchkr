@@ -4,7 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5witchkr&show_icons=true&theme=vue-dark)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&langs_count=7?username=5witchkr&layout=compact?username=5witchkr&hide=css,html)](https://github.com/5witchkr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&langs_count=6?username=5witchkr&layout=compact?username=5witchkr&hide=css,html,javascript)](https://github.com/5witchkr)
 <br/>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=5witchkr&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
