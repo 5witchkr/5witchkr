@@ -1,5 +1,3 @@
-🔭 Blog: https://5witch.tistory.com
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&langs_count=6?username=5witchkr&layout=compact?username=5witchkr&hide=css,html,javascript)](https://github.com/5witchkr)
 <br/>
@@ -7,8 +5,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5witchkr&show_icons=true&theme=vue-dark)
 <br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hob4419)](https://solved.ac/hob4419)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hob4419)](https://solved.ac/hob4419)
+<br/>
+
+🔭 Blog: https://5witch.tistory.com
 
 
 <!--
