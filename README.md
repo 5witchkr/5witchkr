@@ -7,9 +7,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5witchkr&show_icons=true&theme=vue-dark)
 <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=5witchkr&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hob4419)](https://solved.ac/hob4419)
 
