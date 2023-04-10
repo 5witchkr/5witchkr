@@ -5,8 +5,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5witchkr&show_icons=true&theme=vue-dark)
 <br/>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hob4419)](https://solved.ac/hob4419)
-<br/>
+
 
 🔭 Blog: https://5witch.tistory.com
 
