@@ -7,7 +7,6 @@
 
 
 
-🔭 Blog: https://5witch.tistory.com
 
 
 <!--
