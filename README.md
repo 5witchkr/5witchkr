@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&langs_count=6?username=5witchkr&layout=compact?username=5witchkr&theme=dark&hide=css,html,javascript)](https://github.com/5witchkr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5witchkr&langs_count=7&hide=css,html,javascript)](https://github.com/5witchkr)
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5witchkr&show_icons=true&theme=vue-dark)
